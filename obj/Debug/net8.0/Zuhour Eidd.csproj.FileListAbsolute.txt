@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\Zuhour Eidd.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\Zuhour Eidd.exe
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\Zuhour Eidd.deps.json
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\Zuhour Eidd.runtimeconfig.json
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\Zuhour Eidd.dll
+C:\Visual Studio AOL\1\Zuhour Eidd\bin\Debug\net8.0\Zuhour Eidd.pdb
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets\msbuild.Zuhour Eidd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets\msbuild.build.Zuhour Eidd.props
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Zuhour Eidd.props
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Zuhour Eidd.props
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\scopedcss\bundle\Zuhour Eidd.styles.css
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\scopedcss\projectbundle\Zuhour Eidd.bundle.scp.css
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.dll
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\refint\Zuhour Eidd.dll
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.pdb
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\Zuhour Eidd.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Zuhour Eidd\obj\Debug\net8.0\ref\Zuhour Eidd.dll

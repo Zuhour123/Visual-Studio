@@ -1,0 +1,86 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "My Favorite Song";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>My Favorite Song</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #8e2e2f, #111f50);
+            color: white;
+            font-family: 'Segoe UI', sans-serif;
+            text-align: center;
+            padding: 30px;
+        }
+
+        #animate-box {
+            width: 100px;
+            height: 100px;
+            background-color: crimson;
+            margin: 20px auto;
+            border-radius: 15px;
+            position: absolute;
+            top: 150px;
+            left: 50px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            transition: background-color 0.3s ease;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            text-shadow: 2px 2px #000;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Enjoy This Song!</h1>
+
+    <!-- Embedded YouTube Video -->
+    <iframe width="914" height="514" src="https://www.youtube.com/embed/VuNIsY6JdUw?list=RDVuNIsY6JdUw" title="Taylor Swift - You Belong With Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <!-- Animated Box -->
+    <div id="animate-box"></div>
+
+    <script>
+        const box = document.getElementById('animate-box');
+        let x = 0, y = 0;
+        let dx = 2, dy = 2;
+        const maxX = window.innerWidth - 120; // Adjust for box width
+        const maxY = window.innerHeight - 120; // Adjust for box height
+
+        function randomColor() {
+            const r = Math.floor(Math.random() * 255);
+            const g = Math.floor(Math.random() * 255);
+            const b = Math.floor(Math.random() * 255);
+            return `rgb(${r}, ${g}, ${b})`;
+        }
+
+        function animate() {
+            x += dx;
+            y += dy;
+
+            if (x >= maxX || x <= 0) {
+                dx *= -1;
+                box.style.backgroundColor = randomColor();
+            }
+            if (y >= maxY || y <= 0) {
+                dy *= -1;
+                box.style.backgroundColor = randomColor();
+            }
+
+            box.style.left = x + 'px';
+            box.style.top = y + 'px';
+
+            requestAnimationFrame(animate);
+        }
+
+        animate();
+    </script>
+
+</body>
+</html>
